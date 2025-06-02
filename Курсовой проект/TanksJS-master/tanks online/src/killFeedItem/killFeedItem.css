@@ -1,0 +1,19 @@
+.killItem{
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-size: 25px;
+    transition: opacity linear 1s;
+}
+.killer{
+    color: green;
+}
+.killed{
+    color:red;
+}
+.killItem img{
+    margin: 0 20px;
+    height: auto;
+    width: 50px;
+    transform: translate(0,25%);
+}
